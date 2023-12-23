@@ -1,5 +1,6 @@
 ﻿global using RemmberApi;
-global using RemmberApi.Shared;
+global using RemmberApi.Shared; 
+global using Serilog;
 
 global using System.Reflection;
 
